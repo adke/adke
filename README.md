@@ -2,7 +2,7 @@
 
 #### I am currently a high school student attending, Henry Wise Wood Senior High in Calgary, Alberta. 
 - 👀 My deepest passion and interest is programming and is why I have chosen to make this GitHub portfolio. For the entirety of my life, I have enjoyed solving complex puzzles and mathematical problems.
-Due to this reason, I have indulged myself into the tech world for some time now and initiated my coding adventure with Python. I then, switched 
+Due to this reason, I have indulged myself into the tech world for some time now and initiated my coding adventure with Python at an introductory level. I then, switched 
 to web design; developing my skills in JavaScript, HTML, and CSS at an entry level and later on, I extensively learned about Java. 
 
 
