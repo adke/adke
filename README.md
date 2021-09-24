@@ -1,6 +1,6 @@
 ## Hello Everyone, I’m Adish 👋
 
-#### I am currently an incoming student at the University of Waterloo who will be attending the Computer Engineering Program. 
+#### I am currently a student at the University of Waterloo attending the Computer Engineering Program. 
 - :iphone:My deepest passion and interest is programming and is why I have chosen to make this GitHub portfolio. For the entirety of my life, I have enjoyed solving complex puzzles and mathematical problems.
 Due to this reason, I have indulged myself into the tech world for some time now and initiated my coding adventure with Python at an introductory level. I then, switched 
 to web design; developing my skills in JavaScript, HTML, and CSS at an entry level and later on, I extensively learned about Java. 
