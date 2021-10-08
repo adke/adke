@@ -7,8 +7,8 @@ to web design; developing my skills in JavaScript, HTML, and CSS at an entry lev
 
 
 - :coffee:Currently, I am continuing to hone my skills in Java, learning about Iterative and Recursive Algorithims in great dept. Later on,
-I will be looking at Dynamic Data Structures, specifically Linked Lists and Array Lists. Hopefully as I make progress in this exciting and long coding journey,
-I can make a front-end developed website that will list all the accomplishments I have made, using my software knowledge. 
+I will be looking at Dynamic Data Structures, specifically Linked Lists and Array Lists. I am also working with C++ for my programming course in university.  Hopefully as I make progress in this exciting and long coding journey,
+I can make a developed website/portfolio that will list all the accomplishments I have made, using my software knowledge. 
 
 
 - :computer:I have listed some of the projects that I have done onto this portfolio. I hope you enjoy it and see, some of my skills and talents in
