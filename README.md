@@ -3,12 +3,10 @@
 #### I am currently a student at the University of Waterloo attending the Computer Engineering Program. 
 - :iphone:My deepest passion and interest is programming and is why I have chosen to make this GitHub portfolio. For the entirety of my life, I have enjoyed solving complex puzzles and mathematical problems.
 Due to this reason, I have indulged myself into the tech world for some time now and initiated my coding adventure with Python at an introductory level. I then, switched 
-to web design; developing my skills in JavaScript, HTML, and CSS at an entry level and later on, I extensively learned about Java. 
+to web design; developing my skills in JavaScript, HTML, and CSS at an entry level and later on, I extensively learned about Java and C++.
 
 
-- :coffee:Currently, I am continuing to hone my skills in Java, learning about Iterative and Recursive Algorithims in great dept. Later on,
-I will be looking at Dynamic Data Structures, specifically Linked Lists and Array Lists. I am also working with C++ for my programming course in university.  Hopefully as I make progress in this exciting and long coding journey,
-I can make a developed website/portfolio that will list all the accomplishments I have made, using my software knowledge. 
+- :coffee:Currently, I am continuing to hone my skills in Python, learning more about Machine Learning by using libraries such as NumPy, Pandas, Scikit-Learn, and Matplotlib. Later on, I would like to learn about AI using the skills I have developed in ML because I am deeply interested in the future of AI and am always curious as to how AI can be further developed so that it can benefit others in the community.
 
 
 - :computer:I have listed some of the projects that I have done onto this portfolio. I hope you enjoy it and see, some of my skills and talents in
