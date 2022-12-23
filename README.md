@@ -6,7 +6,7 @@ Due to this reason, I have indulged myself into the tech world for some time now
 to web design; developing my skills in JavaScript, HTML, and CSS at an entry level and later on, I extensively learned about Java and C++.
 
 
-- :coffee:Currently, I am continuing to hone my skills in Python, learning more about Machine Learning by using libraries such as NumPy, Pandas, Scikit-Learn, and Matplotlib. Later on, I would like to learn about AI using the skills I have developed in ML because I am deeply interested in the future of AI and am always curious as to how AI can be further developed so that it can benefit others in the community.
+- :coffee:Currently, I am trying to hone my skills in Python, working extensively on projects relating to Machine and Deep Learning by using libraries such as TensorFlow, PyTorch, NumPy, Pandas, Scikit-Learn, Matplotlib, and Seaborn. Later on, I would like to explore other aspects of AI such as Natural Language Processing, Speech Recognition, and Computer Vision. Artificial Intelligence is definitely a demanding and growing field therefore, I am very curious to see its potential and the positive impacts it can make to our society. 
 
 
 - :computer:I have listed some of the projects that I have done onto this portfolio. I hope you enjoy it and see, some of my skills and talents in
