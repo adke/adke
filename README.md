@@ -21,7 +21,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adke&theme=dark&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5" alt="Adish Shah's top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=adke&theme=dark&hide_border=true&layout=compact&langs_count=10&size_weight=0.5&count_weight=0.5&card_width=650" alt="Adish Shah's top languages" />
 </p>
 
 ### ✍️ Random Dev Quote
