@@ -16,8 +16,17 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=adke&theme=github_dark&utcOffset=-6" alt="Adish Shah's productive commit times" />
 </p>
 
+### 🚀 Live Work
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adke&theme=github-compact&hide_border=true&days=45&height=300" alt="Adish Shah's recent GitHub contribution graph" />
+  <a href="https://github.com/adke?tab=overview">
+    <img src="https://img.shields.io/badge/Live%20GitHub%20Activity-181717?style=for-the-badge&logo=github&logoColor=white" alt="Live GitHub activity" />
+  </a>
+  <a href="https://github.com/adke?tab=repositories&sort=updated">
+    <img src="https://img.shields.io/badge/Recently%20Updated%20Repos-238636?style=for-the-badge&logo=github&logoColor=white" alt="Recently updated repositories" />
+  </a>
+  <a href="https://github.com/search?q=author%3Aadke+is%3Apr&type=pullrequests">
+    <img src="https://img.shields.io/badge/Pull%20Requests-1f6feb?style=for-the-badge&logo=github&logoColor=white" alt="Pull requests by Adish Shah" />
+  </a>
 </p>
 
 <p align="center">
